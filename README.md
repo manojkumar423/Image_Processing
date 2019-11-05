@@ -1,8 +1,6 @@
-# Predicting_Churn
-Predicting Churn User
+#Image Processing
 
-Description Of the Project 
+##Description Of the Project 
 
-   This Project is based on the prediction of Churn user or customer attrition that tells us that a customer is going to be churn in near    future. In this project we include several machine learning projects to show that which model have better accuracy rate.
-   Due to the customer attrition Telecommunication company suffers a loss of 30 - 40 %  So, it is important for them to know when the        customer is going to ditch the company  so that then act according to it and what are the main reason that this thing is happening. 
-   So that the Decision Making can become more effective and the company can make effective decision.
+In This project you will see the basic work that can be done with help of PIL(Python Imaging Library) Like Rotation, crop, Rezise of an image.Edge Detection of a photo as well as real time Edge Detection also include in this project at last i have tried to perform face detecion of particular photo.
+  # Libraries Used: PIL, CV2,skimage
